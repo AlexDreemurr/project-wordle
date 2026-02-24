@@ -1,0 +1,2 @@
+使用npm run dev
+然后访问http://localhost:5173/public/index.html
